@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pac\\Documents\\Projeto_tarefa\\task_Project\\task_Project.csproj": {}
+    "c:\\Users\\Pac\\Documents\\Projeto_tarefa\\task_Project\\task_Project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pac\\Documents\\Projeto_tarefa\\task_Project\\task_Project.csproj": {
+    "c:\\Users\\Pac\\Documents\\Projeto_tarefa\\task_Project\\task_Project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pac\\Documents\\Projeto_tarefa\\task_Project\\task_Project.csproj",
+        "projectUniqueName": "c:\\Users\\Pac\\Documents\\Projeto_tarefa\\task_Project\\task_Project.csproj",
         "projectName": "task_Project",
-        "projectPath": "C:\\Users\\Pac\\Documents\\Projeto_tarefa\\task_Project\\task_Project.csproj",
+        "projectPath": "c:\\Users\\Pac\\Documents\\Projeto_tarefa\\task_Project\\task_Project.csproj",
         "packagesPath": "C:\\Users\\Pac\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pac\\Documents\\Projeto_tarefa\\task_Project\\obj\\",
+        "outputPath": "c:\\Users\\Pac\\Documents\\Projeto_tarefa\\task_Project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pac\\AppData\\Roaming\\NuGet\\NuGet.Config"
